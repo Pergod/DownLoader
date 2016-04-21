@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">下载器</string>
+    <string name="download">Dowload</string>
+    <string name="hint">Please input URL</string>
+</resources>
